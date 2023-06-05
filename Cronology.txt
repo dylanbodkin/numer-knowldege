@@ -1,0 +1,587 @@
+{
+    "ChronologyPhilosophy": "This Chronology is an evolving record of events related to Numerai, a hedge fund that uses artificial intelligence and crowdsourced data science to make investment decisions. The purpose of the Chronology is to provide a detailed, organized, and accessible history of Numerai's evolution, achievements, and the broader context of its operations.\n\nThe idea for the Chronology was developed as a way to better understand and communicate the story of Numerai. By compiling and analyzing various reports and articles about the company, we can gain a more nuanced understanding of its trajectory and impact. This process involves not just collecting and storing these reports, but also generating new reports that synthesize and interpret the information in a consistent, informative, and engaging way.\n\nThe development of the Chronology is a collaborative effort, involving both human and artificial intelligence. The AI, trained on a diverse range of financial and news texts, assists in generating the new reports. These reports are written in the style of the original sources but are composed in the AI's own words. This approach allows us to preserve the "entropy of information" - the richness and diversity of perspectives and styles in the original reports - while also ensuring that the new reports are coherent, accurate, and informative.\n\nThe Chronology is not just a historical record, but also a tool for learning and discovery. By interrogating the past, we can better understand the present and anticipate the future. The process of creating the Chronology - reading, analyzing, synthesizing, writing - is also a form of learning, both for the human collaborators and for the AI itself.\n\nIn summary, the Chronology is a living document that captures the story of Numerai. It is a testament to the power of collaboration, the potential of artificial intelligence, and the importance of understanding our past as we navigate towards the future.",
+    "ChronologyEntries": [
+        {
+            "EntryDate": "Apr 19, 2016",
+            "Entry": {
+                "Publication": "The Numerai Report",
+                "Title": "Numerai, an AI-Driven Hedge Fund, Secures $1.5M in Investment",
+                "Text": "Numerai, a San Francisco-based hedge fund utilizing artificial intelligence, has raised $1.5 million in funding. The round was led by a founder of Renaissance Technologies. Numerai, established by Richard Craib, hosts monthly competitions where data scientists use AI to predict stock market trends. The company provides encrypted financial data to participants to create their models, with the best ones integrated into Numerai's trading strategies. Investors include Howard Morgan of Renaissance Technologies, Naval Ravikant of AngelList, and Playfair Capital. As Numerai expands, it plans to increase competition rewards."
+            },
+            "EntrySources": [
+                {
+                    "Date": "Apr 18, 2016",
+                    "Publication": "Financial Times",
+                    "Title": "Artificial intelligence-focused Numerai raises $1.5m",
+                    "Author": "Robin Wigglesworth"
+                }
+            ]
+        },
+        {
+            "EntryDate": "Apr 21, 2016",
+            "Entry": {
+                "Publication": "The Summarizer",
+                "Title": "Summary: Encrypted Data For Efficient Markets",
+                "Text": "The article, titled "Encrypted Data for Efficient Markets", discusses how Numerai is using advances in structure-preserving encryption to allow for open participation in the problem of stock market efficiency. \n\nNumerai, a hedge fund, has developed a unique model that allows data scientists from around the world to contribute to its investment strategies. The company provides these scientists with encrypted financial data, which they use to build machine learning models for predicting stock market movements. The best models are rewarded and integrated into Numerai's trading strategies. \n\nThe article emphasizes the importance of open participation in solving complex machine learning problems. It draws a parallel with the MNIST dataset, a large database of handwritten digits that has been widely used for training various image processing systems. The MNIST dataset was freely available, which allowed researchers around the world to contribute to the progress in computer vision. \n\nHowever, the author points out that the stock market lacks open participation due to the unavailability of high-quality, public datasets for machine learning. Most of the high-quality stock market data is guarded by data monopolies and hedge funds, making it difficult for independent data scientists to contribute to the progress towards more efficient markets. \n\nThe article then introduces the concept of structure-preserving encryption, a breakthrough in cryptography that allows machine learning algorithms to learn from encrypted data. This means that Numerai can share its expensive market data securely without destroying its utility to data scientists. \n\nThe author, who is the founder of Numerai, shares his experience of working with expensive financial data at a $15 billion asset management company. He explains how he was able to create a machine learning model that outperformed the market significantly. However, instead of hiding the successful model and the data, as is common in finance, he decided to share the data using structure-preserving encryption. \n\nNumerai was launched in December 2015 and quickly gained popularity among data scientists around the world. Within ten days of launch, a graduate student from Bangalore was able to beat the founder's model. Since then, Numerai has attracted users from top universities, Wall Street, famous quantitative hedge funds, and tech companies. The users have uploaded millions of equity price predictions, and the error rate on Numerai’s encrypted stock market dataset has been steadily decreasing. Numerai is now trading user-generated predictions in its hedge fund."
+            },
+            "EntrySources": [
+                {
+                    "Date": "Jan 7, 2016",
+                    "Publication": "Medium",
+                    "Title": "Artificial intelligence-focused Numerai raises $1.5m",
+                    "Author": "Richard Craib"
+                }
+            ]
+        },
+        {
+            "EntryDate": "Jun 22, 2016",
+            "Entry": {
+                "Publication": "The Summarizer",
+                "Title": "Summary: Rogue Machine Intelligence and a New Kind of Hedge Fund",
+                "Text": "The article titled "Rogue Machine Intelligence and a New Kind of Hedge Fund" on Medium discusses the unique model of Numerai, a hedge fund built by a community of anonymous data scientists. The article begins with a story about an artificial intelligence named NCVSAI, which joined Numerai in February 2016. The creator of NCVSAI, who works in genomics and biostatistics, downloaded encrypted stock market data from Numerai, trained a machine learning model, and began submitting stock predictions to Numerai. \n\nThe article describes Numerai as the first interface between machine intelligence and global capital. Anonymous users like NCVSAI constantly upload new predictions based on their machine learning models. These predictions are ensembled to control the capital in Numerai's hedge fund. Since its launch, 1.9 billion equity price predictions have been submitted to Numerai, and this number is growing by 50 million per day. \n\nThe article also discusses the potential for rapid growth in hedge funds that make good returns, as they attract new investment capital exponentially. Numerai's returns depend on users like NCVSAI, and with strong returns, it is expected to grow super exponentially. \n\nThe article concludes by announcing a partnership with the Machine Intelligence Research Institute (MIRI), which does foundational mathematical research to ensure that artificial intelligence has a positive impact. Numerai users can donate Bitcoin to MIRI as a hedge against things going "horribly right". The article also announces the addition of three new technical advisors to Numerai: Joey Krug, Geoffrey Bradway, and Yunus Saatchi."
+            },
+            "EntrySources": [
+                {
+                    "Date": "Jun 21, 2016",
+                    "Publication": "Medium",
+                    "Title": "Rogue Machine Intelligence and A New Kind of Hedge Fund",
+                    "Author": "Richard Craib"
+                }
+            ]
+        },
+        {
+          "EntryDate": "Jun 22, 2016",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Super Intelligence for The Stock Market",
+              "text": "Numerai is utilizing the power of ensemble machine learning to enhance stock market prediction accuracy. The platform combines the intelligence of thousands of data scientists worldwide, each approaching the problem in their unique way. Rather than searching for the best model, Numerai synthesizes different models into a meta model, similar to how Random Forests combines decision trees. The collaboration among data scientists aims to build a collective intelligence rather than compete for individual success. \n\nThis approach not only improves returns but also has implications in portfolio theory. By diversifying the models, Numerai reduces risk and increases exposure to multiple independent bets. This diversification leads to lower portfolio volatility and allows for the rational use of leverage, resulting in higher returns. \n\nEnsemble theory, rooted in both machine learning and portfolio management, provides a strong foundation for Numerai's strategy. The platform boasts the largest ensemble of stock market machine learning models in the world, with over 191,766 models currently in use."
+          }
+          "EntrySources": [
+              {
+                  "date": "Jun 21, 2016",
+                  "publication": "Medium",
+                  "title": "Super Intelligence for The Stock Market",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Oct 06, 2016",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai: Harnessing Collective Artificial Intelligence for Stock Market Predictions",
+              "text": "Numerai, a new hedge fund that employs artificial intelligence and is based in San Francisco, has successfully raised $1.5 million in funding. The fundraising round was led by a founder of Renaissance Technologies, a globally recognized hedge fund. Numerai, founded by South African mathematician Richard Craib, hosts unique monthly competitions where data scientists apply AI techniques, such as machine learning, to predict stock market movements. The most accurate predictions win money from the company. Unlike similar 'crowdfunded' hedge funds, Numerai provides data scientists and computer programmers with encrypted financial data, which they use to independently develop their own models and submit their results to the hedge fund. The best ones are then synthesized into stock market trades. The investment group, led by Howard Morgan, a former computer science professor and one of the founders of Renaissance Technologies, praised Numerai's innovative use of crowdsourced AI. Other investors include Naval Ravikant, co-founder of AngelList, and Playfair Capital, a venture capital group based in London specializing in AI. Some of the investors also invested an undisclosed sum into Numerai’s hedge fund. As the hedge fund grows, Numerai plans to increase the rewards for its competition participants."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 05, 2016",
+                  "publication": "Futurism",
+                  "title": "Capturing the Intelligence of the Crowd: How to Create Your Own Super AI",
+                  "author": "Mike Grillo"
+              },
+          ]
+      },
+ 
+      {
+          "EntryDate": "Dec 12, 2016",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Secures $6M Investment to Further Develop its AI-Driven Hedge Fund",
+              "text": "Numerai, an AI-focused hedge fund, has secured $1.5 million in funding led by a Renaissance Technologies founder. The San Francisco-based firm, founded by Richard Craib, hosts monthly competitions where data scientists use AI to forecast stock market movements. The top models are incorporated into Numerai's trading strategies. Investors include Howard Morgan, Naval Ravikant, and Playfair Capital. Numerai aims to increase competition rewards as it grows."
+          }
+          "EntrySources": [
+              {
+                  "date": "Dec 11, 2016",
+                  "publication": "Financial Times",
+                  "title": "Crowdsourced hedge funds using ‘algo’ traders raise more money",
+                  "author": "Robin Wigglesworth"
+              },
+          ]
+      },
+        
+      {
+          "EntryDate": "Dec 13, 2016",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Raises $6 Million in Funding for its Crowdsourced Hedge Fund",
+              "text": "Numerai, the crowdsourced hedge fund founded by Richard Craib, has gained significant traction in its first year of operation. With an army of data scientists creating algorithms on Numerai's platform, the startup has now secured $6 million in funding from First Round Capital and Union Square Ventures. \n\nThe unique approach of Numerai lies in its clever ability to attract the brightest minds in the tech industry, particularly those with expertise in machine learning. These individuals are invited to join in a data science tournament, in which they compete to see who can predict the stock market the best. Participants do not directly invest or generate income from the hedge fund, But insead are paid for the qualiy of their predictions. \n\nNumerai's open access model allows anyone to participate, and the platform ensures anonymity and data security through the use of encrypted data. The fund size currently exceeds $1 million, with Richard Craib personally contributing a significant portion. The success of Numerai's approach has attracted interest from institutional investors, and the startup aims to eventually charge performance fees based on a favorable track record. \n\nIt is worth noting that Numerai's algorithms are based on historical data trends, and past behavior may not always predict future outcomes. However, this reliance on historical data is seen as a way to mitigate biases and ensure that the best-performing algorithms are given more weight in Numerai's formula. While specific positions and performance relative to the DJIA cannot be disclosed due to SEC regulations, Richard Craib stated that Numerai is performing well and continues to attract new funding. \n\nHeadquartered in San Francisco, Numerai previously received funding from prominent investors such as Howard Morgan and Naval Ravikant."
+          }
+          "EntrySources": [
+              {
+                  "date": "Dec 12, 2016",
+                  "publication": "Tech Crunch",
+                  "title": "Numerai is a crowdsourced hedge fund for machine learning experts",
+                  "author": "Katie Roof"
+              },
+          ]
+      },
+      
+      {
+          "EntryDate": "Dec 13, 2016",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Attracts $6M Investment for Its Crowdsourced, AI-Driven Hedge Fund",
+              "text": "Numerai, a San Francisco-based hedge fund that operates on the unique model of anonymous contributions, has successfully raised $6 million in new investments. The funding round saw participation from Union Square Ventures, co-founded by Fred Wilson, and other previous partners including Peter Diamandis, a founder of Singularity University, and Howard Morgan, a founder of the highly successful hedge fund firm Renaissance Technologies. Numerai, founded by former quantitative trader Richard Craib, bases its investments on machine learning models submitted by anonymous data scientists who are compensated in Bitcoin based on the success of their models. The fund has already awarded $150,000 to its contributors since its inception last year and aims to eventually pay out $1 million per month. Numerai is unique in its approach, holding weekly 'tournaments' for contributors to prove the accuracy of their models. The models are built using historical stock pricing data provided by Numerai and are then tested on live trading data. Numerai aggregates the ideas from contributors, weighting them according to their success, to form its own investment model. By paying contributors in Bitcoin, Numerai maintains anonymity and facilitates worldwide transactions without collecting personal information. As the fund grows, it aims to attract institutional investors and potentially charge performance fees. Despite the restrictions on disclosing specific positions or performance relative to the DJIA due to SEC regulations, Richard Craib has indicated that Numerai has been performing well and continues to attract new funding."
+          }
+          "EntrySources": [
+              {
+                  "date": "Dec 12, 2016",
+                  "publication": "The New York Times",
+                  "title": "Hedge Fund Driven by Anonymous Ideas Gets New Investments",
+                  "author": "Nathaniel Popper"
+              },
+          ]
+      },
+      
+      {
+          "EntryDate": "Feb 22, 2017",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Pioneers Cryptocurrency Innovation in Hedge Fund Industry",
+              "text": "Numerai, a San Francisco-based hedge fund, has launched Numeraire, the world's first cryptocurrency issued by a hedge fund. The firm, founded by Richard Craib, a Forbes 30 Under 30 honoree, is known for its unique approach to investment strategy. It leverages the expertise of 2,000 anonymous data scientists worldwide who use artificial intelligence to build stock market prediction models. These contributors are incentivized with the newly minted cryptocoin Numeraire ($NMR). \n\nThe introduction of Numeraire is set to address a key challenge in the finance industry – the lack of collaboration. Craib believes that if data scientists hold the same cryptocurrency, which appreciates in value collectively, it could foster greater cooperation. This, in turn, could lead to the creation of superior stock market prediction models, enhancing the hedge fund's performance and generating more wealth for its anonymous workforce. \n\nNumerai's innovative blend of data science, cryptography, artificial intelligence, crowdsourcing, and Bitcoin has already earned it recognition, including a 2016 Forbes Fintech 50 award. Now, with the launch of Numeraire, the firm is testing two promising but yet unproven concepts – app-coins and smart contracts. Despite the risks, Craib is optimistic about the potential of these technologies to revolutionize the hedge fund industry. \n\nThe Numeraire system works by allowing data scientists to stake their Numeraire tokens on their prediction models. If their predictions perform well, they earn Bitcoin and their staked Numeraire is returned. However, if their predictions are less accurate, their staked Numeraire is destroyed. This system aligns the incentives of the users with the performance of the hedge fund, encouraging the creation of models that perform well on live data. \n\nWhile the launch of Numeraire is a significant step, it is just the beginning for Numerai. The firm aims to become a fully functional hedge fund, while continuing to push the boundaries of what is possible with data science, cryptocurrencies, and blockchain technology."
+          }
+          "EntrySources": [
+              {
+                  "date": "Feb 21, 2017",
+                  "publication": "Forbes",
+                  "title": "This Is The World's First Cryptocurrency Issued By A Hedge Fund",
+                  "author": "Laura Shin"
+              },
+          ]
+      },
+      
+      {
+          "EntryDate": "Feb 23, 2017",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Unveils Numeraire: A Novel Digital Token to Foster Collaboration on Wall Street",
+              "text": "In a bold move to disrupt the traditional competitive ethos of Wall Street, Numerai, the San Francisco-based hedge fund, has introduced a new digital token called Numeraire. The brainchild of 29-year-old South African technologist Richard Craib, Numeraire is designed to transform the cutthroat financial industry into a collaborative space. \n\nNumerai is unique in its operation. It employs an artificially intelligent system to make all its trades. However, this system isn't developed in-house. Instead, it is the product of a competition among thousands of anonymous data scientists who strive to create the most effective trading algorithms. The winners are rewarded with bitcoin for their efforts. This innovative approach has been in operation for over a year, and according to Craib, it's proving profitable. \n\nDespite its success, Craib identified a significant flaw in the system: the lack of incentive for the winning scientist to involve other talented individuals. This is where Numeraire comes into play. The digital token is designed to align the interests of all participants, fostering a spirit of collaboration rather than competition. \n\nToday, Numerai has distributed one million Numeraire tokens to 12,000 participating scientists. The tokens serve as a form of betting on the success of their machine learning models in the live market. If their trades are successful, they receive their Numeraire back along with a payment in bitcoin. If their trades fail, their Numeraire is destroyed, and they receive no payment. \n\nThe introduction of Numeraire is expected to encourage the data scientists to build models that work on live trades, not just test data. The value of Numeraire is also tied to the overall success of the hedge fund, as Numerai will pay out more bitcoin to data scientists betting Numeraire as the fund grows. \n\nCraib's vision is for Numeraire to encourage Wall Street to operate more like an open-source software project, where everyone benefits from collaboration. The success of this novel approach remains to be seen, but if it works, it could fundamentally alter the dynamics of Wall Street, fostering a cooperative spirit in a traditionally competitive environment."
+          }
+          "EntrySources": [
+              {
+                  "date": "Feb 21, 2017",
+                  "publication": "Wired",
+                  "title": "An AI Hedge Fund Created a New Currency to Make Wall Street Work Like Open Source",
+                  "author": "Cade Metz"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Feb 24, 2017",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: A New Cryptocurrency For Coordinating Artificial Intelligence on Numerai",
+              "text": "This article, titled "A New Cryptocurrency for Coordinating Artificial Intelligence on Numerai," discusses the introduction of a new cryptocurrency called Numeraire, which is designed to incentivize collaboration among data scientists working on Numerai's platform. \n\nThe article begins by discussing the problem of self-interest in financial markets, where participants have no incentive to collaborate or share knowledge. It then introduces the concept of cryptocurrency as a solution to this problem, as it can be programmed to incentivize certain behaviors. \n\nThe author then introduces Numeraire, a cryptocurrency issued by Numerai to its data scientists based on their past performance in Numerai's tournaments. The idea is that by owning Numeraire, data scientists have a financial incentive to improve the overall network, shifting the game from zero-sum to positive-sum. \n\nThe article also introduces the concept of "staking" Numeraire. When a data scientist submits predictions to Numerai, they can stake Numeraire on those predictions. If the predictions are accurate, they earn money, but if they're not, their staked Numeraire is destroyed. This mechanism is designed to incentivize live performance and disincentivize overfitting. \n\nThe author concludes by discussing the potential of network effects in capital allocation. By incentivizing collaboration, Numerai hopes to harness network effects to become the most valuable hedge fund in the 21st century."
+          }
+          "EntrySources": [
+              {
+                  "date": "Feb 21, 2017",
+                  "publication": "Medium",
+                  "title": "A New Cryptocurrency For Coordinating Artificial Intelligence on Numerai",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "May 09, 2017",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Pioneers Cryogenic Freezing as an Employee Benefit",
+              "text": " \n\nIn an unconventional move to attract talent, Numerai, the artificial intelligence-driven hedge fund, has announced an unconventional addition to its health plan: cryogenic freezing. This unique benefit offers employees the opportunity to be cryogenically preserved after death, with the hope of potential revival in the future. \n\nThe announcement was made by Numerai's founder, Richard Craib, who himself is a member of cryonics provider Alcor. The idea was sparked by the interest and curiosity expressed by Numerai's employees about Craib's personal decision to opt for cryonic freezing. In response, he decided to extend this option to his staff as well. \n\nThe process involves Numerai taking out a life insurance policy for each employee, provided by Transamerica, which covers the cost of cryonic storage. Upon an employee's death, their body is delivered to Alcor and preserved in a frozen state, with the hope that future medical advancements may enable their revival. \n\nHowever, this unique benefit comes with a caveat: leaving the company means losing the coverage, and consequently, the chance at potential future resurrection. When questioned about the ethical implications of an employer controlling an employee's afterlife, Craib responded by challenging other companies to offer similar benefits. \n\nWhile the idea may seem dystopian to some, Craib hopes that this initiative will start a trend among forward-thinking companies to consider cryonics as part of their employee benefits package. So far, most Numerai employees have signed up for the coverage, with a few opting out due to religious or philosophical reasons. \n\nThis innovative approach to employee benefits sets Numerai apart from other tech companies, which typically offer more conventional health benefits such as fertility treatments. Whether this move will indeed start a trend in the tech industry remains to be seen, but it certainly underscores Numerai's commitment to pushing boundaries and thinking outside the box."
+          }
+          "EntrySources": [
+              {
+                  "date": "May 08, 2017",
+                  "publication": "Vice",
+                  "title": "This AI Company Offers Cryogenic Freezing With Its Health Plan",
+                  "author": "Corin Faife"
+              },
+          ]
+      },      
+     
+      {
+          "EntryDate": "May 22, 2017",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Paul Tudor Jones Invests in AI Hedge Funds, Signaling a Shift in Industry Focus",
+              "text": "Hedge fund manager Paul Tudor Jones has made significant investments in two artificial intelligence (AI)-powered hedge funds, CargoMetrics and Numerai, marking a notable shift in the hedge fund industry towards technology and away from traditional human-operated trading. \n\nCargoMetrics, based in Boston, leverages global shipping data and satellite imagery to identify tradeable patterns, while Numerai, located on the West Coast, operates as a 'crowdsourced' hedge fund. Both funds have attracted attention for their innovative use of AI and machine learning to uncover tradable signals in vast amounts of digital data. \n\nThis move by Tudor Jones, a prominent figure in the hedge fund industry, underscores the growing interest in systematic, algorithmic investing. Traditional mutual and hedge funds have seen a decline in performance and investor interest, while quantitative hedge funds, especially those utilizing AI, have experienced consistent client inflows and growth. \n\nDespite his past success, including a well-timed bet against the US stock market prior to the 'Black Monday' crash in 1987, Tudor Jones has faced challenges in recent years. In response, he has embarked on a hiring spree for mathematicians, programmers, and data scientists to transform his firm, Tudor Investment Corporation, into a 'quantamental' firm, one that combines quantitative strategies with traditional fundamental analysis. \n\nThis shift towards data-driven strategies is seen by many industry analysts as the future of investing. It also opens up opportunities for long-term, fundamental investment strategies to coexist and thrive alongside these new quantitative approaches. As the hedge fund industry continues to evolve, it will be interesting to see how these trends develop and what impact they will have on traditional investment strategies."
+          }
+          "EntrySources": [
+              {
+                  "date": "May 21, 2017",
+                  "publication": "Financial Times",
+                  "title": "Tudor Jones backs AI hedge funds",
+                  "author": "Lindsay Fortado"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Jun 21, 2017",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: An AI Hedge Fund Goes Live On Ethereum",
+              "text": "This article, titled "An AI Hedge Fund Goes Live on Ethereum", was published on Numerai's Medium blog. It announces the deployment of the Numeraire smart contract to Ethereum, a blockchain platform, and the distribution of over 1.2 million Numeraire tokens to 19,000 data scientists worldwide. \n\nThe article explains that Numerai is building a protocol to connect machine intelligence to the stock market and encourages others to build on top of it. The company has made over $200,000 in payments to its users, previously using Bitcoin. However, Bitcoin's existence on a different blockchain to the Numeraire token has limited the extent to which decentralized applications based on Numerai can be automated. To address this, Numerai announced that it would abandon Bitcoin and phase it out by September 30th. From that point on, all payments will be made in Ether and Numeraire. \n\nStarting from the date of the article, data scientists can withdraw Numeraire tokens to any Ethereum address and interact with the smart contract. They can also stake their Numeraire on their predictions. If their predictions perform well, they earn more money. If their predictions perform poorly, their Numeraire is destroyed on the blockchain. This staking mechanism creates a strong incentive to build the best machine learning model on Numerai. For many people, staking Numeraire will be their first interaction with an Ethereum smart contract."
+          }
+          "EntrySources": [
+              {
+                  "date": "Jun 21, 2017",
+                  "publication": "Medium",
+                  "title": "An AI Hedge Fund Goes Live on Ethereum",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Jun 22, 2017",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Launches Blockchain Token, Sidesteps Traditional ICO",
+              "text": "In a departure from recent market norms, autonomous hedge fund startup Numerai is launching a new blockchain token, Numeraire, without resorting to an initial coin offering (ICO). The move highlights Numerai's innovative approach to incentivizing its network of data scientists and underscores the potential for alternative models in the rapidly evolving blockchain token market. \n\nNumerai, which has raised $7.5 million from investors including Union Square Ventures and Naval Ravikant, has released 1.2 million Numeraire tokens. These tokens are being allocated to its distributed network of 19,000 data scientists who contribute to improving the algorithms that Numerai uses to make stock market bets. The startup aims to address the lack of coordination and collaboration in global stock markets by leveraging artificial intelligence and blockchain technology. \n\nPreviously, Numerai used Bitcoin to compensate its network of data scientists. However, it will now use a combination of Ether, the cryptocurrency that powers the Ethereum blockchain, and its own Ethereum-based Numeraire token to incentivize users. The value of Numeraire tokens is tied directly to Numerai's core operations: gathering data and predicting stock market outcomes. \n\nData scientists stake their Numeraire tokens on their predictions, sending them to a smart contract that holds the tokens until the performance of the predictions can be evaluated. Successful predictions earn Ether and the return of staked Numeraire tokens, while unsuccessful predictions result in the destruction of the staked tokens. \n\nThe integration of the Numeraire token into Numerai's project economy distinguishes it from other token-issuing blockchain projects. The token is designed to promote a virtuous cycle by encouraging behaviors beneficial to the network, such as the use and issuance of the token, and discouraging undesirable behaviors, such as token hoarding. \n\nNumerai has already adjusted its rewards payouts to provide better incentives for data scientists to build robust models. The company is committed to maintaining an open dialogue with users and adapting its model as it learns more after the token launch. \n\nThe market debut and future valuation of the Numeraire token are still uncertain. However, Xander Dunn, a software engineer at Numerai, has suggested a potential valuation of $15 per token, equating to a $30 million market cap. Given the recent surge in token values, this could prove to be a conservative estimate."
+          }
+          "EntrySources": [
+              {
+                  "date": "Jun 21, 2017",
+                  "publication": "Coin Desk",
+                  "title": "No ICO: Hedge Fund Numerai Releases Blockchain Token But Skips the Funding",
+                  "author": "Pete Rizzo"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Aug 25, 2017",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "The Dawn of AI-Driven Quantitative Hedge Funds: A New Era in Asset Management",
+              "text": "A new generation of quantitative analysts, or 'quants', are harnessing the power of artificial intelligence (AI) to challenge the status quo. \n\nThese young innovators, led by the likes of Richard Craib, the 30-year-old mathematician behind Numerai, are not looking for jobs at established hedge funds like Renaissance or Two Sigma. Instead, they are on a mission to render them obsolete. \n\nNumerai, an AI-powered hedge fund, is at the forefront of this revolution. Craib's vision is to democratize the hedge fund industry, much like Jack Bogle's mission to popularize low-cost index funds through Vanguard Group. Craib is critical of the hefty fees Wall Street extracts from investors' returns and believes that AI can significantly reduce fund management costs, leading to savings that can be passed on to both institutional and retail investors. \n\nNumerai's approach is unique. Unlike traditional quant firms that rely on human analysts to build systematic strategies, Numerai is teaching machines to do the job. The startup has already attracted seed funding from First Round Capital, known for its early investment in Uber, and later rounds of funding from Union Square Ventures, Paul Tudor Jones, and others. \n\nThe potential of AI is not lost on the asset management industry. Firms are racing to hire AI talent, but the changes they are willing to make are often incremental, protecting their profitable legacy businesses. In contrast, AI entrepreneurs like Craib and Renee Yao, founder of Neo Ivy Capital, see an industry ripe for disruption. They are leveraging AI to teach computers to generate alpha, or excess returns, non-stop, a task that humans, with their need for rest, cannot match. \n\nCraib's Numerai and Yao's Neo Ivy Capital are examples of how AI can be used to create a more efficient, lower-cost infrastructure for asset management. However, these benefits will only be realized if these firms offer their products at lower costs. While specific fee structures are not disclosed, both Craib and Yao have indicated that their fees will be significantly lower than the traditional 2-and-20 structure charged by leading hedge funds. \n\nThe rise of AI-driven quants signals a new era in asset management. These innovators are not just using AI to improve existing processes; they are reimagining the industry, challenging established players, and potentially offering investors a more cost-effective alternative. As AI continues to evolve and its applications in asset management become more sophisticated, the industry may well be on the cusp of a significant transformation."
+          }
+          "EntrySources": [
+              {
+                  "date": "Aug 24, 2017",
+                  "publication": "Institional Investor",
+                  "title": "Younger, Cheaper, Smaller, Smarter: Meet the New Breed of Quants",
+                  "author": "Julie Segal"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Oct 14, 2017",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Numerai’s Master Plan",
+              "text": 'This article, titled "Numerai's Master Plan", outlines the company's strategic roadmap for the coming years. The plan is divided into four parts: 1. Monopolize intelligence, 2. Monopolize data, 3. Monopolize money, and 4. Decentralize the monopoly. \n\nThe company's immediate focus is on monopolizing intelligence, which involves gathering all talented data scientists to work on a single hedge fund, rather than having them spread across multiple funds. This is achieved through the use of Numerai's own cryptocurrency, Numeraire (NMR), which is used in a staking tournament. Data scientists stake NMR on their predictions to express their confidence in their models. If their models perform well, they earn more money (paid in ether). If their models perform poorly, their NMR is destroyed. This approach has led to a significant increase in the quality of predictions and the growth of the data scientist community on Numerai. \n\nThe roadmap also includes the launch of an API that any AI can use to control capital in the economy. The API will pass datasets to the AIs to train on, and the AIs will submit predictions back to Numerai. The AIs will get paid in cryptocurrency. \n\nFuture plans include the implementation of a reputation system, where data scientists who regularly achieve good results will earn bonuses as their reputation grows, and the introduction of a new feature called Compute, which will allow users to send NMR to an Ethereum smart contract and get computational power for almost no cost.'
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 13, 2017",
+                  "publication": "Medium",
+                  "title": "Numerai’s Master Plan",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Feb 11, 2018",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Numeraire: The Cryptocurrency Powering The World Hedge Fund",
+              "text": "The article titled 'Numeraire: The Cryptocurrency Powering The World Hedge Fund' discusses the success of Numerai's cryptocurrency, Numeraire (NMR), which was not sold in an ICO but given away to the best data scientists on Numerai. The token was used immediately by its recipients, with some data scientists staking NMR every week since its launch. \n\nThe reason for asking data scientists to risk NMR by staking it on their models is to ensure that only the good models get staked. The article presents the Sharpe ratio of the unstaked models vs the staked models based on the backtest of the test set. The Sharpe ratio of unstaked models was 1.66, while the Sharpe ratio of models staked with NMR was 2.09. This indicates that staked models earn significantly more returns with lower volatility in the backtest. \n\nThe article concludes by stating that NMR is a success story for a utility token. It is widely held and used by its holders, leading to the exact intended outcome of the white paper published a year ago. It improves the performance of models on Numerai. \n\nNumerai has increased the staking payout to 2000 NMR + 6000 USD, a 500% increase in payouts in the staking tournament. From now on, the only way to earn NMR is by staking NMR, making it even more valuable. The total earnings available on Numerai is over $140,000 per month, making it the most well-paid data science tournament on the planet."
+          }
+          "EntrySources": [
+              {
+                  "date": "Feb 10, 2018",
+                  "publication": "Medium",
+                  "title": "Numeraire: The Cryptocurrency Powering The World Hedge Fund",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "May 9, 2018",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Numerai’s New Token Supply",
+              "text": "In the article, "Numerai’s New Token Supply", Richard Craib, the founder of Numerai, announced that the company had locked up 3 million NMR tokens (valued at approximately $45 million) until 2028. This decision was made to ensure the scarcity of the token, a crucial aspect of its cryptoeconomic system. The NMR smart contract allows for a maximum of 21 million NMR tokens, and Numerai has the ability to mint new tokens each week. However, the company decided to lock up a significant portion of the tokens it could mint to continue growing the network through new airdrops and partnerships. The locked tokens are staked in a dummy round on the Ethereum blockchain, making the lockup irreversible and verifiable. This move is expected to shift power towards the Numerai community and simplify the supply of NMR. The article also noted that NMR is one of the most used utility tokens on Ethereum and that the number of NMR stakes had reached a record high that week."
+          }
+          "EntrySources": [
+              {
+                  "date": "May 8, 2018",
+                  "publication": "Medium",
+                  "title": "Numerai’s New Token Supply",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Aug 08, 2018",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai: The Intersection of AI, Blockchain, and Crowdsourcing in Investment Management",
+              "text": "In a significant development for the investment management industry, Numerai, a San Francisco-based hedge fund, is leveraging artificial intelligence (AI), blockchain technology, and crowdsourcing to drive its stock trades. This innovative approach, which combines cutting-edge technology with a global network of data scientists, could represent the future of investment management. \n\nNumerai's unique model relies on data scientists from around the world to develop machine learning algorithms that predict market movements. These data scientists, who are allowed to remain anonymous, are rewarded in bitcoin based on the success of their investment models. This approach not only incentivizes accurate predictions but also allows Numerai to tap into a vast pool of global talent. \n\nAccording to Numerai's founder, Richard Craib, this model gives the hedge fund a significant advantage over traditional trading platforms. "We can have a hundred times more data scientists working on Numerai’s data than there is in competing hedge funds," Craib said in an interview with FOX Business. \n\nBy integrating AI and blockchain technology, Numerai is pioneering a new approach to investment management. The use of AI allows for sophisticated, machine-driven analysis of market data, while blockchain technology facilitates secure, anonymous participation from a global network of data scientists. This combination, along with the incentive structure provided by cryptocurrency rewards, enables Numerai to crowdsource effective investment strategies. \n\nIn conclusion, Numerai's innovative approach to investment management, which combines AI, blockchain technology, and crowdsourcing, could potentially disrupt the industry. By leveraging global talent and cutting-edge technology, Numerai is not only driving its own stock trades but also paving the way for a new model of investment management."
+          }
+          "EntrySources": [
+              {
+                  "date": "Aug 07, 2018",
+                  "publication": "Fox Business",
+                  "title": "This hedge fund’s trades are driven by artificial intelligence",
+                  "author": "Henry Fernandez"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Oct 05, 2018",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Expands its Crowdsourcing Model with the Launch of Erasure",
+              "text": "Numerai, the San Francisco-based hedge fund known for its innovative use of crowdsourcing and artificial intelligence, has announced the launch of a new platform called Erasure. This development marks a significant expansion of Numerai's model, as it will allow competing hedge funds to tap into the same pool of global data scientists that Numerai uses to develop its investment strategies. \n\nFounded by Richard Craib, Numerai operates on the principle that a large, diverse group of data scientists can produce superior market predictions. Each week, thousands of data scientists from around the world participate in a tournament, using Numerai's encrypted data to develop their predictions. The most accurate predictions are rewarded, creating a competitive environment that drives continuous improvement and innovation. \n\nThe new Erasure platform extends this model by allowing any hedge fund to access the marketplace and benefit from the collective intelligence of Numerai's data scientists. Importantly, Erasure operates using Numeraire, a digital token created by Numerai. This use of blockchain technology ensures secure, transparent transactions and provides an incentive structure for the data scientists. \n\nIn conclusion, the launch of Erasure represents a significant step forward for Numerai and the broader hedge fund industry. By opening up its crowdsourcing model to competing funds, Numerai is not only diversifying its own operations but also pioneering a new approach to investment strategy development. As more hedge funds begin to tap into the collective intelligence of Numerai's data scientists, we may see a shift towards more collaborative, data-driven investment strategies."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 04, 2018",
+                  "publication": "Bloomberg",
+                  "title": "The Tinder for Markets Is Run on Crypto",
+                  "author": "Krista Gmelich"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Oct 5, 2018",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: An Unstoppable Predictions Marketplace — Introducing Erasure",
+              "text": "In the text "An Unstoppable Predictions Marketplace — Introducing Erasure," Richard Craib, the founder of Numerai, introduces Erasure, a decentralized data marketplace for predictions. The platform allows users to upload predictions, stake them with cryptocurrency, build a track record that everyone can verify, and earn money. \n\nThe article discusses the problem of information being trapped, where valuable insights individuals might have are not utilized because they are not able to express them as trades. Erasure aims to solve this problem by allowing individuals to sell their predictions to hedge funds who can make larger and smarter trades. \n\nErasure uses blockchain technology to ensure the credibility of the predictions. Users submit their predictions to the Ethereum blockchain, which timestamps them, making it impossible for users to alter their predictions later. This allows anyone to verify the accuracy of a user's past predictions. \n\nTo prevent users from creating multiple prediction feeds in order to get lucky, Erasure uses staking. Every prediction on Erasure requires some cryptocurrency to be staked at risk. This means that sellers of predictions have something at risk if their predictions are incorrect, which should lead to higher quality feeds. \n\nFinally, Erasure introduces a concept called "griefing", which allows buyers to destroy the seller’s stake by destroying some of their own. This gives buyers some recourse if the predictions they buy turn out to be inaccurate. The degree to which a buyer can destroy a seller's stake is determined by a "griefing factor" chosen by the seller. \n\nErasure is built on existing technology and has been used by Numerai for over a year. The Numeraire token (NMR), which is used by data scientists to stake stock market predictions submitted to Numerai’s hedge fund, has become one of the most used utility tokens on Ethereum."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 4, 2018",
+                  "publication": "Medium",
+                  "title": "An Unstoppable Predictions Marketplace — Introducing Erasure",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Dec 4, 2018",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Redesigning Ethereum’s Most Used Token",
+              "text": "In this article, Richard Craib, the founder of Numerai, announces the redesign of the Numerai's NMR token, which he claims is one of the most used tokens on Ethereum. The redesign, dubbed NMR 2.0, aims to address several issues with the original token: \n\nCentralization: The original NMR token was controlled by Numerai. The new design decentralizes control, meaning the NMR smart contract will no longer be controlled or upgradable by Numerai. \n\nLimited Use: The original NMR token was primarily used to power Numerai’s hedge fund. The new design turns NMR into a protocol, opening up a multitude of new use cases. Anyone can use NMR and build on top of Erasure, Numerai's decentralized data marketplace. \n\nLack of Governance Rights: The original NMR token had no governance rights. The new design makes NMR a governance token, meaning it will be controlled by all NMR owners. \n\nLimited Audience: The original NMR token was primarily used by Numerai’s data scientists. With Erasure, every data provider and every data buyer will need NMR. \n\nPotential Dilution: The original NMR token could be diluted if Numerai minted millions of new NMRs. The new design ends Numerai's ability to mint any more NMR and cuts the supply of NMR by ~50% from 21 million to 11 million. \n\nThe redesign aims to create a radical new kind of data marketplace, with the Numerai community providing the first data feeds and Numerai acting as a major buyer from day one. The goal is not just to increase the usage of NMR, but to solve Numerai’s problems and create a new kind of data marketplace."
+          }
+          "EntrySources": [
+              {
+                  "date": "Dec 3, 2018",
+                  "publication": "Medium",
+                  "title": "Redesigning Ethereum’s Most Used Token",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Oct 8, 2019",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Highlights from ErasureCon: CoinList Partners with Erasure for new Hackathon",
+              "text": "In this article, Richard Craib, the founder of Numerai, shares highlights from ErasureCon, an event focused on the Erasure protocol, which is designed for building staking and griefing applications on Ethereum. The protocol, which went live on the main-net a month before the event, already powers the Erasure Quant application, and soon Numerai itself will be running on Erasure. \n\nThe applications Numerai has built so far represent only a small part of what’s possible with the Erasure protocol. At ErasureCon, developers, investors, and users gathered to present plans and discuss the future of the protocol. Topics included how NMR has evolved from a staking token on Numerai to a staking token for the web, how zero-day software exploits are a perfect use case for ErasureBay, and the design philosophy of the protocol. \n\nThe Erasure team plans to work on releasing ErasureBay, an information marketplace with broad, mainstream application. To further encourage development, Numerai announced a new partnership with CoinList to run an online Erasure Hackathon open to anyone. Unlike typical hackathons, which often result in gimmicky user interfaces and no lasting tools for developers, the Erasure Hackathon will focus on building developer tools so that anyone, even without a coding background, can implement Erasure across the web."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 7, 2019",
+                  "publication": "Medium",
+                  "title": "Highlights from ErasureCon: CoinList Partners with Erasure for new Hackathon",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+        
+      {
+          "EntryDate": "Oct 25, 2019",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Achieving Meta Model Supremacy At Numerai",
+              "text": "In this article, Richard Craib, the founder of Numerai, discusses the concept of "Meta Model Supremacy" and how it is being achieved at Numerai. Numerai is a hedge fund built by a network of data scientists around the world. They provide high-quality data to anyone who wants to model it using machine learning, and then combine the best models to create a Meta Model, which manages the money in their hedge fund. \n\nThe first assumption behind Numerai's approach is that machine learning is better than standard statistical approaches for modeling financial data. This assumption is based on the fact that machine learning algorithms dominate almost every data modeling problem, even though their performance on financial data is still disputed by many academics and industry professionals. \n\nTo prove the effectiveness of their approach, Numerai ran a linear regression model and an XGBoost model on their data. They then built the Numerai Meta Model by selecting the top 200 user-built models that were staked with their cryptocurrency, NMR. These models were then further filtered to find the top 100 that work well together. The backtest results showed that the Meta Model outperformed both the linear regression and the machine learning models. \n\nHowever, Craib acknowledges that the Meta Model is not perfect. It sometimes has larger drawdowns than their previous Meta Model and sometimes spends months being flat. Despite these challenges, he believes that the Meta Model is now a much better hedge fund and when people analyze the backtest, it looks uncorrelated to other funds. \n\nCraib also introduces Marcos López de Prado, Numerai’s new scientific advisor, who has been instrumental in improving the dataset on Numerai. They focused on building a target variable that was much more monetizable and increased the number of features from about 40 to about 300. These changes significantly improved the performance of all users and the Meta Model, leading to a Sharpe ratio of 2.09 in the backtest. \n\nCraib concludes by stating that while all hedge funds will eventually upgrade to machine learning, they can't upgrade to Numerai’s Meta Model, giving Numerai a defensible edge in an industry without many defensible edges."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 24, 2019",
+                  "publication": "Medium",
+                  "title": "Achieving Meta Model Supremacy At Numerai",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Mar 23, 2019",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai Secures $11 Million Funding for Decentralized Predictions Market",
+              "text": "Numerai, a startup specializing in predictions markets and an AI-driven hedge fund, has successfully raised $11 million through the sale of its Numeraire (NMR) tokens. The funding round was led by Paradigm and Placeholder, with the majority of the funds earmarked for the development of Erasure, Numerai's decentralized predictions market. \n\nThe unique approach of Numerai involves rewarding users for developing successful predictive models based on machine learning. These user-generated predictions influence the investment decisions of the Numerai hedge fund. Users who are confident in the performance of their models can stake their NMR tokens, earning additional tokens if their predictions prove accurate. However, if the models underperform, the staked tokens are permanently destroyed. To date, Numerai has paid out over $10 million in rewards since its inception. \n\nThe upcoming Erasure platform will utilize the Interplanetary File System (IPFS) to upload user data, ensuring the integrity and authenticity of the predictions. A tamper-proof timestamping system will provide certainty that a prediction was made prior to the occurrence of the predicted event. The requirement for token staking is designed to maintain the quality of predictions and prevent users from flooding the market with numerous predictions in an attempt to strike it lucky. \n\nJoel Monegro, a partner at Placeholder, explained the firm's decision to invest in tokens rather than equity in Numerai. He stated that investing in decentralized crypto networks is akin to underwriting and capitalizing the network. As the network grows and more people buy and sell data, the role of large financial investors diminishes, allowing them to gradually exit their position as the network becomes self-sustaining. \n\nIn conclusion, Numerai's successful funding round marks a significant milestone in its journey to develop a decentralized predictions market. The innovative use of AI, machine learning, and blockchain technology positions Numerai at the forefront of the predictions market industry."
+          }
+          "EntrySources": [
+              {
+                  "date": "Mar 22, 2019",
+                  "publication": "Coin Codex",
+                  "title": "Numerai Raises $11 Million With Private NMR Token Sale",
+                  "author": "Peter Wind"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Dec 20, 2019",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai's Collaborative Approach: A $1 Million Incentive for Building on the Erasure Protocol",
+              "text": "Numerai, a hedge fund based in Silicon Valley and founded by South African innovators, is distinguishing itself with a business model that values collaboration over competition. The firm has recently announced a $1 million giveaway to incentivize the development of applications on their new protocol, Erasure. This revolutionary system aims to introduce a new level of accountability to the internet. \n\nNumerai operates by cleaning and regularizing financial data, which is then encrypted using state-of-the-art technology. This data is made freely available to anonymous data scientists worldwide, who participate in a weekly tournament. These scientists model the data and submit predictions, staking their submissions as a sign of confidence. The best submissions are rewarded, while unsuccessful ones result in the burning of stakes. This innovative approach democratizes financial data analysis, allowing individuals from all corners of the globe to contribute to global market efficiency and develop valuable skills in data modeling. \n\nThe Erasure platform expands on Numerai's concepts of staking and griefing, which have already improved the quality of data scientist submissions. The introduction of these concepts could revolutionize various fields, such as reputation-based online shopping and accountability for distributing misinformation. Numerai's vision is to improve the web by promoting incentive alignment, rational behavior, and recourse against bad actors. \n\nThe firm's $1 million grant program is designed to test the potential of the Erasure platform and explore new possibilities. The program encourages developers to build on the platform, whether they are creating simple applications on the blockchain or building tools to bring staking and griefing to existing applications. Applicants interested in the grant program can email grants@numer.ai with project specifications, development time, team details, and anticipated build costs. \n\nIn conclusion, Numerai's collaborative approach and commitment to enhancing the web align with its focus on performing as a hedge fund. The firm's innovative use of AI, machine learning, and blockchain technology positions it at the forefront of the financial industry, while its efforts to democratize data analysis and improve the internet have broader societal implications."
+          }
+          "EntrySources": [
+              {
+                  "date": "Dec 19, 2019",
+                  "publication": "Mail & Guardian",
+                  "title": "So much to give",
+                  "author": "James Nash"
+              },
+          ]
+      },
+      {
+          "EntryDate": "Oct 13, 2020",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Building The Last Hedge Fund — Introducing Numerai Signals",
+              "text": "Numerai, a hedge fund, has announced a new system called Numerai Signals, which allows the company to source and reward stock market signals built with any model, trained on any dataset. This is a step towards their goal of monopolizing data, as outlined in their master plan. \n\nNumerai Signals is designed to provide feedback on whether a submitted signal has predictive value after being neutralized by all other signals that Numerai already has, including those uploaded by others. This means that Numerai is interested in the unique, original part of the signals that they don't already have. The incentives are therefore around creating signals from unusual data sources or unusual modeling techniques. \n\nThe company has allocated $50 million in cryptocurrency rewards for the most original signals. This system is designed to allow signal generators to replace hedge funds, and for hedge funds to shed the burdensome costs of being money managers and become signal generators instead. \n\nThe system is designed to be beneficial for a variety of users, including interns at companies with valuable data, struggling hedge funds, users of platforms like Quantopian, and experts in fields like natural language processing."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 12, 2020",
+                  "publication": "Medium",
+                  "title": "Building The Last Hedge Fund — Introducing Numerai Signals",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Oct 13, 2020",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Numerai Outperforms Market Neutral Hedge Funds by 26%, Raises Up To $150m",
+              "text": "Numerai, the crowdsourced hedge fund powered by data scientists and machine learning models, has secured $1.5 million in funding. Led by founder Richard Craib, Numerai operates through monthly tournaments where data scientists from around the world develop machine learning models to predict stock market movements. The fund has now chosen to share its performance for the first time with the data scientist community that contributed to its success. \n\nSince its launch in September 2019, Numerai's market-neutral hedge fund has demonstrated impressive performance, outperforming prestigious hedge funds in the industry. Despite the challenging market conditions caused by the Covid-19 pandemic, Numerai's fund performed exceptionally well and differentiated itself from other quant hedge funds that faced significant losses. Numerai's avoidance of large factor exposures and focus on being risk-neutral played a key role in its success. \n\nNumerai's performance stands out when compared to established indexes. The fund has outperformed Aurum's Quant Equity Market Neutral Index by 26.46% and AQR's Market Neutral Fund by 29.61% over the past two years. This highlights the effectiveness of Numerai's unique approach and the collective intelligence of its data scientists. \n\nNumerai has also addressed the question of its low return in a market where many assets have experienced significant gains. The fund emphasizes that market-neutral hedge funds operate differently from other investment products. Rather than seeking to maximize returns by taking on market risk, market-neutral funds aim to maintain low-risk portfolios that are neutral to stock market movements. This strategy can result in lower returns during bullish market periods but provide higher relative returns during market downturns. \n\nNumerai's success is further supported by its robust risk management and skillful stock selection. The fund has demonstrated resilience during volatile market periods, such as the Covid-19 market downturn and the meme stock rally. Over 80% of Numerai's fund return is attributed to stock selection, highlighting the skill of its data scientists in identifying profitable investment opportunities. \n\nThe fund's performance has attracted institutional investors, including a pension fund that has invested $20 million and has the potential to invest an additional $130 million in Numerai. With $43 million in assets under management and the ability to trade with 5.5x leverage, Numerai is well-positioned for further growth and success. \n\nNumerai's achievements mark significant milestones for the company. It has outperformed its peers, met backtest expectations, demonstrated effective risk management during market volatility, and attributed its returns to skill rather than luck. These milestones have contributed to Numerai's appeal to institutional investors and its emergence as a prominent player in the hedge fund industry."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 6, 2021",
+                  "publication": "Medium",
+                  "title": "Numerai Outperforms Market Neutral Hedge Funds by 26%, Raises Up To $150m",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Oct 07, 2021",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Quant Trading Firm Numerai: A Platform for Amateurs to Earn Cryptocurrency",
+              "text": "Hayden Burgoyne, a 32-year-old NASA engineer, has found a lucrative hobby in the world of finance. By day, he works on building spacecraft for exploring Jupiter's moons. By night, he participates in an online trading tournament, betting cryptocurrency on his stock picks. This hobby has not only paid for his wedding and honeymoon but also allowed him to compete against thousands of other participants from around the globe. \n\nBurgoyne is part of a tournament organized by San Francisco-based hedge fund Numerai. The firm, founded by 34-year-old Richard Craib, has created a unique platform that crowdsources amateur quants to evaluate market data. Participants stake a cryptocurrency called Numeraire on their stock picks and are rewarded more Numeraire based on their performance. \n\nNumerai's approach is democratizing the world of finance. As Craib told Insider, "There's so much hype in crypto," but "we've actually used it to do something in the real world." The firm has rewarded about 2 million Numeraire so far, now worth an estimated $90 million, making the digital asset worth about $45 a piece. \n\nBurgoyne, based in Los Angeles County, has staked 630 tokens on his stock bets. He told Bloomberg that his hobby is "more lucrative than most," considering it's paid for both his wedding and honeymoon in South America. \n\nNumerai's tournament is not just a game for its participants; it's also a significant source of income for some. Craib mentioned that some people are staking half a million dollars on their models, potentially earning $50,000 in a week if their models perform well. \n\nThe firm's unique approach to quant investing has yielded impressive results. Last year, the fund rose 8%, outperforming many others, and this year, it's up 9% as of August. Numerai's success has attracted backing from billionaire Paul Tudor Jones and former Renaissance Technologies executive Howard Morgan. \n\nIn conclusion, Numerai's innovative use of crowdsourcing and cryptocurrency is revolutionizing the world of finance. By democratizing financial data analysis and rewarding performance with cryptocurrency, the firm is creating a platform where anyone, regardless of their background, can contribute to global market efficiency and earn a substantial income."
+          }
+          "EntrySources": [
+              {
+                  "date": "Oct 06, 2021",
+                  "publication": "Markets Insider",
+                  "title": "A NASA engineer paid for his wedding and honeymoon by betting cryptocurrency on his ability to pick stocks for a quant trading firm",
+                  "author": "Natasha Dailey"
+              },
+          ]
+      },
+    
+      {
+          "EntryDate": "Feb 06, 2022",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numeraire: A Revolutionary Approach to Algorithmic Trading",
+              "text": "Numeraire (NMR), a unique cryptocurrency, is making waves in the world of algorithmic trading. It powers an innovative platform called Numerai, which combines the power of machine learning and crowdsourcing to predict stock market trends. \n\nThe platform offers two distinct applications aimed at different types of traders. The first, Signals, allows users to propose stock market strategies that support specific stocks or trading styles. The second, Tournament, is a weekly competition where participants submit trading algorithms concerning financial markets. The platform then allows anyone to bet on the most likely outcome. \n\nThe Numerai ecosystem operates on the Ethereum blockchain and utilizes the Erasure protocol. This protocol enables Numerai to reward users who correctly staked their NMR tokens or destroy them if they did not. The platform implements an artificial intelligence aggregation model known as a "meta-model," which includes all of the predictions received from the members of its application network. \n\nThe Numeraire coin has its pros and cons. On the positive side, a limited supply can help to preserve the coin's value. Numerai conducts a competition every week in which scientists acquire new data and use it to construct financial models. To avoid manipulation, the scientists must stake some Numeraire tokens (NMR) on their models. Participants that bet NMR tokens on the accurate prediction will receive freshly minted NMR tokens; otherwise, the bet NMR will be burned or destroyed permanently. \n\nHowever, there are challenges. Advanced computer abilities are required to create machine learning algorithms. Non-experts may find it challenging to create a model that can earn money. Additionally, competitors such as Quantconnect and Quantiacs have now entered the market. \n\numerai launched the Numeraire token on the Ethereum mainnet in 2017 without completing an Initial Coin Offering (ICO). Instead, Numerai donated one million NMR tokens to 12,000 data scientists based on their prior involvement in Numerai Tournaments. \n\nThe use of NMR tokens has resulted in improved model performance on Numerai. Staked models receive much higher returns with lower volatility in the backtest. For example, for the same 10% volatility, staked models would earn 20.9 percent, whereas unstacked models would earn only 16.6 percent – a significant difference for a hedge fund. \n\nIn conclusion, Numeraire (NMR) offers a novel approach to algorithmic trading, leveraging the power of crowdsourcing and cryptocurrency rewards. The platform's success in generating returns and improving model performance has attracted attention in the trading community. With ongoing developments and increased stake rewards, Numeraire aims to solidify its position as a prominent player in the world of algorithmic trading."
+          }
+          "EntrySources": [
+              {
+                  "date": "Feb 05, 2022",
+                  "publication": "Tech Story",
+                  "title": "Numeraire: Everything You Need to Know About It",
+                  "author": "Nisa Jain"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Mar 23, 2022",
+          "Entry": {
+              "publication": "The Summarizer",
+              "title": "Summary: Alien Stock Market Intelligence — Numerai’s True Contribution",
+              "text": "The Medium article written by the founder of Numerai discusses a new signal evaluation method they developed called True Contribution. Numerai is a hedge fund that uses machine learning models to make trading decisions. This method treats Numerai as an end-to-end AI system and computes the gradient of optimized portfolio returns with respect to the NMR (Numerai's cryptocurrency) staked on a signal using differentiable convex optimization layers. The goal is to surface and incentivize signals that make the largest intelligence contributions to the hedge fund. \n\nThe article also proposes a Kardashev scale for hedge funds, inspired by the scale proposed by astrophysicist Nikolai Kardashev to grade the technological advancement of civilizations based on the energy they harness. The proposed scale grades hedge funds based on the quality of their signals: \n\n Type I: Has a signal that predicts subsequent returns before trading costs. \n\nType II: Has a signal that predicts subsequent returns after trading costs. \n\nType III: Has a signal that can be used to make profitable alterations to the best hedge fund in the world’s signal. \n\nType IV: Has a signal so good that no other signal can be used to make profitable alterations to it. \n\nThe article argues that to be a Type IV hedge fund, a firm would need to be able to rapidly and automatically onboard any new signal that improves its performance. It would need to be an open system where new signals can be uploaded by anyone, and it would need to have sufficient capital to buy up all Type III signals. The author believes that Numerai has the potential to become such a Type IV hedge fund due to its open nature, its use of cryptocurrency to incentivize signal submissions, and its practice of buying signals from the market. \n\nHowever, the article identifies a challenge in becoming a Type IV hedge fund: how to evaluate whether a new signal will improve the existing good signal. The author argues that without a good technological solution to this signal evaluation question, it is impossible to know whether a signal is of Type III quality and therefore reaching Type IV status is impossible. \n\nThe article then moves on to describe the True Contribution method in detail. I encountered some issues when trying to quote from this part of the article, but it appears to argue that the True Contribution method solves the signal evaluation problem and enables more effective signals to be identified. This, in turn, could move Numerai closer to becoming a Type IV hedge fund."
+          }
+          "EntrySources": [
+              {
+                  "date": "Mar 22, 2022",
+                  "publication": "Medium",
+                  "title": "Alien Stock Market Intelligence — Numerai’s True Contribution",
+                  "author": "Richard Craib"
+              },
+          ]
+      },
+
+      {
+          "EntryDate": "Mar 30, 2023",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai (NMR): Challenging Hedge Funds with Crowdsourced Trading and Potential for Growth",
+              "text": "In the realm of finance, the name Jim Simons is synonymous with success. The mathematician-turned-hedge-fund-manager leveraged his expertise in pattern recognition and data analysis to create Renaissance Technologies, one of the most successful hedge funds in history. However, in recent years, the hedge fund industry has seen a decline, with billions of dollars being withdrawn from funds like Renaissance Technologies. Amidst this backdrop, a new player, Numerai, has emerged, challenging the traditional hedge fund model with a unique, crowdsourced approach. \n\nFounded by Cornell-trained mathematician Richard Craib, Numerai is harnessing the power of peer-to-peer networks to inspire and challenge data scientists around the globe. The start-up provides vast amounts of stock trading data, similar to what traditional hedge funds use, free of charge. Data scientists are then invited to compete to spot anomalies in this data. The process is anonymized, ensuring the integrity of the competition and the security of the models developed. \n\nThe competition is not without stakes. Participants are required to stake their own cryptocurrency, called Numeraire (NMR), on their predictions. Successful predictions are rewarded with more Numeraire, while incorrect predictions result in the loss of the staked crypto. Despite the inherent risk, thousands of data scientists are currently participating, with 4,675 models controlling the hedge fund's trading decisions. \n\nThe results so far have been promising. Despite the turmoil in the hedge fund industry and the volatility caused by the COVID-19 pandemic, Numerai has managed to generate positive returns. From its launch in September 2019 to December 2021, Numerai's peer-to-peer fund returned 21%, outperforming traditional quant funds. \n\nWhile still a relatively small operation with a market value of $175 million (fully diluted $325 million), Numerai's performance and unique approach have the potential to disrupt the hedge fund industry. If it continues to outperform and attract the attention of larger investors, the value of Numeraire could increase significantly, making it a potentially lucrative investment. \n\nIn conclusion, Numerai represents a novel approach to hedge fund management, leveraging the power of crowdsourcing and the potential of cryptocurrency. Its early success suggests that it could be a game-changer in the industry. While the future is always uncertain, the potential for growth and the opportunity for significant returns make Numerai and its Numeraire cryptocurrency an intriguing prospect for investors."
+          }
+          "EntrySources": [
+              {
+                  "date": "Mar 29, 2023",
+                  "publication": "The Motley Fool",
+                  "title": "Why You Might Want to Make a Small Investment in Numerai's Crypto",
+                  "author": "Taylor Carmichael"
+              },
+          ]
+      },      
+      
+      {
+          "EntryDate": "Mar 01, 2023",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "Numerai: A Paradigm Shift in Hedge Fund Management",
+              "text": "In a remarkable display of the power of crowdsourcing, Numerai LLC, a San Francisco-based hedge fund, has attracted an additional $100 million in inflows following a stellar performance last year. The fund, which is backed by renowned investor Paul Tudor Jones, achieved a 20% return amidst market turbulence, demonstrating the potential of its unconventional approach. \n\nNumerai's business model is a departure from traditional Wall Street practices. Rather than relying solely on financial experts, the fund solicits trading ideas from a diverse array of individuals, including freelance data analysts, engineers, and scientists. These contributors, who may not have formal finance backgrounds, are rewarded for their insights with Numerai's native cryptocurrency. \n\nThis open-for-all vision is a testament to the democratization of trading, a trend that has been gaining traction on Wall Street. By leveraging the collective intelligence of a broad range of contributors, Numerai is able to harness the power of crowdsourcing to inform its investment decisions. This approach aligns with the increasing interest in cryptocurrencies and artificial intelligence in the financial sector. \n\nDespite the incomplete information available about Numerai's specific strategies and operations, the fund's impressive performance and substantial inflows are indicative of the success of its model. As the financial industry continues to evolve, Numerai's innovative approach presents a compelling alternative to traditional Wall Street practices. The fund's ability to generate significant returns and attract considerable inflows underscores the potential of crowdsourcing in the realm of investment management."
+          }
+          "EntrySources": [
+              {
+                  "date": "Feb 28, 2023",
+                  "publication": "Bloomberg",
+                  "title": "Paul Tudor Jones-Backed Quant Manager Returns 20% Using Crowdsourced Ideas",
+                  "author": "Justina Lee"
+              },
+          ]
+      },      
+
+      {
+          "EntryDate": "Apr 12, 2023",
+          "Entry": {
+              "publication": "The Numerai Report",
+              "title": "The Elusive Promise of AI in Wall Street's Investment Strategies",
+              "text": "Artificial Intelligence (AI) has been making waves across various industries, from generating creative content to driving technological innovation. However, its application in the financial sector, particularly in the realm of investment, has yet to yield groundbreaking results. Despite the hype, AI-driven investing strategies have not consistently outperformed the market. \n\nWall Street was an early adopter of AI, with mathematicians-turned-quants developing algorithms decades ago to automate investment decisions. These pioneers used machine learning, a subset of AI, to build trading models based on historical data, identifying patterns that could lead to profitable trades. However, the transition to fully automated operations has proven challenging, and significant breakthroughs using self-learning or reinforcement learning approaches remain elusive. \n\nOne of the main hurdles in applying AI to investing is the limited availability of data compared to language-based AI efforts. Language models, such as ChatGPT, have access to vast amounts of text and data spanning decades or even centuries. In contrast, hedge funds and other investors primarily train their trading systems using market data, which is inherently limited and noisier, making it harder to predict market movements. \n\nMoreover, the dynamic nature of markets, influenced by factors such as changes in company strategies, leadership decisions, and evolving economic and political environments, adds another layer of complexity. This makes it difficult to rely solely on models based on historical long-term data trends for making trades. Furthermore, the competitive nature of investing, where every decision is a potential advantage or disadvantage against rivals, complicates the application of AI. \n\nDespite these challenges, there are signs of growing comfort with AI in investing. Hedge funds like Voleon Capital Management and Numerai have embraced machine learning and reported gains using these approaches. However, the results of AI-driven strategies have been inconsistent, and more exploration is needed to determine their true potential for generating significant returns. \n\nAI enthusiasts remain optimistic, believing that machine-learning strategies will eventually perform well. They see potential in reinforcement learning, a form of machine learning that uses reward and punishment mechanisms, which has shown success in games like chess and poker. However, the path to developing effective machine-learning strategies is fraught with challenges and may involve multiple false starts before achieving accurate predictions. \n\nIn the near term, AI advancements may impact areas such as research and sales within the financial industry. AI-enabled automation and personalization of information for clients could reshape the role of salespeople in investment banks. \n\nWhile AI holds promise for the future of investing, the complexities of the market and the limitations of available data make it difficult to rely solely on machines. Human expertise and decision-making remain essential in navigating the noisy and competitive investment landscape."
+          }
+          "EntrySources": [
+              {
+                  "date": "Apr 12, 2023",
+                  "publication": "The Wall Street Jorunal",
+                  "title": "AI Can Write a Song, but It Can’t Beat the Market",
+                  "author": "Gregory Zuckerman"
+              },
+          ]
+      },         
+    ]
+}
